@@ -1,0 +1,1 @@
+Aby to działało poprawnie trzeba w module ESP WROOM-06 zrobić mostek pomiędzy pinem 1 a 17 jest to wyjście na 4 przekaźnik. Wroom na 17 pinie nie ma wyprowadzonego żadnego wyjścia dlatego podłączyłem tam sygnał GPIO1. Życzę miłego użytkowania pliku
